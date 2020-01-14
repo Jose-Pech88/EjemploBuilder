@@ -1,0 +1,12 @@
+C:\Users\jose.pech\source\repos\IBuilder\IBuilder\bin\Debug\IBuilder.exe.config
+C:\Users\jose.pech\source\repos\IBuilder\IBuilder\bin\Debug\IBuilder.exe
+C:\Users\jose.pech\source\repos\IBuilder\IBuilder\bin\Debug\IBuilder.pdb
+C:\Users\jose.pech\source\repos\IBuilder\IBuilder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\jose.pech\source\repos\IBuilder\IBuilder\obj\Debug\IBuilder.exe
+C:\Users\jose.pech\source\repos\IBuilder\IBuilder\obj\Debug\IBuilder.pdb
+C:\Users\jose.pech\Documents\GitHub\EjemploBuilder\Builder\Builder\bin\Debug\IBuilder.exe.config
+C:\Users\jose.pech\Documents\GitHub\EjemploBuilder\Builder\Builder\bin\Debug\IBuilder.exe
+C:\Users\jose.pech\Documents\GitHub\EjemploBuilder\Builder\Builder\bin\Debug\IBuilder.pdb
+C:\Users\jose.pech\Documents\GitHub\EjemploBuilder\Builder\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\jose.pech\Documents\GitHub\EjemploBuilder\Builder\Builder\obj\Debug\IBuilder.exe
+C:\Users\jose.pech\Documents\GitHub\EjemploBuilder\Builder\Builder\obj\Debug\IBuilder.pdb
